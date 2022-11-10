@@ -31,5 +31,7 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspaterniani&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ![snake gif](https://github.com/mateuspaterniani/blob/output/github-contribution-grid-snake.svg)
+    
+    <div/>
 
 
