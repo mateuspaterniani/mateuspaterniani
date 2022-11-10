@@ -32,3 +32,4 @@
 
 ![snake gif](https://github.com/mateuspaterniani/blob/output/github-contribution-grid-snake.svg)
 
+
