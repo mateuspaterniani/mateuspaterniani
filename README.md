@@ -1,6 +1,6 @@
 ## 🖐️ Olá! Eu sou o  <strong>Mateus Paterniani</strong>
 
-> Sou um desenvolvedor iniciante em front-end e com objetivo de cursar Engenharia de Software.
+> Sou um desenvolvedor iniciante em front-end, atuamente cursando Analise e Desenvolvimento de Sistemas.
 
 💬 Clique em alguma das redes sociais abaixo para entrar em contato:
 
