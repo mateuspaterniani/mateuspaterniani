@@ -32,6 +32,6 @@
     
     ![Snake animation](https://github.com/mateuspaterniani/mateuspaterniani/blob/output/github-contribution-grid-snake.svg)
     
-    <div/>
+   
 
 
